@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm GelamiSalami!
+I'm a technical artist specialized in shaders and rendering. I am passionate about graphics programming in topics such as raytracing, raymarching/sphere tracing, SDFs, voxels, ray-traversal algorithms, spectral rendering, and iridescent materials, to name a few.
 
+🔭 I’m currently exploring techniques on terrain rendering with quadtree displacement mapping and voxel rendering.
 <!--
 **GelamiSalami/GelamiSalami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
