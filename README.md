@@ -1,7 +1,7 @@
 ### Hallo! 👋 I'm GelamiSalami!
 I do shaders and rendering and everything graphics programming. I am very interested in topics such as raytracing, raymarching/sphere tracing, SDFs, voxels, ray-traversal algorithms, tilings and tesselations, iridescent materials, just to name a few.
 
-🔭 I’m currently exploring falling sand simulations in compute shaders and writing about intersection functions in raytracing at [my blog](https://gelamisalami.github.io/blog/).
+🔭 I’m currently writing about raytracing intersection functions at [my blog](https://gelamisalami.github.io/blog/) and creating WebGL toys, some of which I share here.
 
 <!--
 **GelamiSalami/GelamiSalami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
