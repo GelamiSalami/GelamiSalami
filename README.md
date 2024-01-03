@@ -3,6 +3,8 @@ I do shaders and rendering and everything graphics programming. I am very intere
 
 🔭 I’m currently writing about raytracing intersection functions at [my blog](https://gelamisalami.github.io/blog/) and creating WebGL toys, some of which I share here.
 
+📫 You can reach out to me on my Twitter [@GelamiSalami](https://twitter.com/GelamiSalami) or through Gmail at **gelami.salami**.
+
 <!--
 **GelamiSalami/GelamiSalami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
